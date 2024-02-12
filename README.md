@@ -1,4 +1,4 @@
-👋 Hi, I’m Gaytri Sisodia
+👋 Hi, I’m Gaytri
 
 - 📬 **Contact:**
   - Mobile: +44 7547 122043 
