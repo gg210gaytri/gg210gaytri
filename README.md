@@ -18,7 +18,7 @@
     - 07/2018 - 08/2021 | A Grade Achieved
     - Relevant Modules: Biotechnology (A), Zoology(A+), Botany(A+).
 
-- 🌐 **Relevant Internship:**
+- 🌐 **Professional Experience:**
   - **Rapture Biotech International Private Limited, Mohali, India**
     - Student Intern | 11/2020 - 12/2020
     - Explored structural biology and industrial bioinformatics.
