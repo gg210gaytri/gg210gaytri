@@ -8,7 +8,7 @@
 - 👩‍🎓 **Education:**
   - **University of Leicester, United Kingdom**
     - Postgraduate Degree, Master's in Bioinformatics
-    - 09/2022 - 01/2024 | 2.2 Grade Achieved
+    - 09/2022 - 01/2024 | 2.1 Grade Achieved
     - Relevant Modules: Proteins (B), Gene & Genome Analysis (B), Bioinformatics Programming (B), Big Data & Predictive Analytics (A), Algorithms in Bioinformatics (A), Steered Research Project (A), Independent Research Project (Predicted A).
     - Proficient in Linux, Python, R, Single-cell Sequencing, BLAST.
     - Conducted Steered Research Project and Independent Research Project.
@@ -85,8 +85,6 @@
     - Proficient in genome annotation and structural variant analysis.
   - **Systems Biology:**
     - Familiar with systems biology approaches and network analysis.
-  - **Cloud Computing:**
-    - Experience with AWS for bioinformatics tools and platforms.
   - **Version Control:**
     - Proficient in using Git for collaborative projects.
   - **Communication Skills:**
