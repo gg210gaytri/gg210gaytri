@@ -4,16 +4,16 @@
   - Mobile: +44 7547 122043
   - Email: Gaytrisisodia05@gmail.com 
   - LinkedIn: [linkedin.com/in/gaytri-sisodia-b4a97823a](https://www.linkedin.com/in/gaytri-sisodia-b4a97823a)
-  - Personal Statement: With around 9 months of experience as a Freelance Data Analyst specializing in Machine Learning (ML), I am passionate about integrating ML and Artificial                               Intelligence (AI) to drive innovations in bioinformatics and sustainability. Having completed my Master's in Bioinformatics from the University of Leicester, I                           am committed to advancing biotechnology with a focus on computational bioinformatics. I bring proficiency in Linux, Python, R, and Bash Scripting, with hands-on                          experience tackling real-world data challenges.
+  - Personal Statement: With around 9 months of experience as a Freelance Data Analyst specializing in Machine Learning (ML), I am passionate about integrating ML and Artificial                               Intelligence (AI) to drive innovations in Bioinformatics and Sustainability. Having completed my Master's in Bioinformatics from the University of Leicester, I                           am committed to advancing Biotechnology with a focus on Computational Bioinformatics. I bring proficiency in Linux, Python, R, and Bash Scripting, with hands-on                          experience tackling real-world data challenges.
 
 - 🌐 **Professional Experience:**
   **Freelancer | January 2024 - Present**
     - **🚀 Manhattan Properties Project**
     Carried out data cleansing, visualization, predictive modeling, and performance evaluation.
-    Applied K-Means clustering for local regression models on Manhattan property sale prices.
+    Applied K-Means Clustering for local regression models on Manhattan property sale prices.
     Published insights on sale price predictions for August 2012 to August 2013.
     - **🚀Employee Data Analysis**
-    Developed a multiple linear regression model to predict employee outcomes like salary and performance.
+    Developed a Multiple Linear Regression Model to predict employee outcomes like salary and performance.
     Data preprocessing included feature selection and encoding categorical variables.
     Provided actionable insights to stakeholders on key factors influencing employee outcomes.
     - **🚀Diabetes Data Analysis**
@@ -21,7 +21,7 @@
     Balanced classes using SMOTE and optimized the model with key features like glucose levels and BMI.
     Evaluated model performance with accuracy, precision, recall, and ROC-AUC metrics.
     - **🚀Customer Segmentation Interpretation**
-    Conducted customer segmentation using Random Forest classifier to identify high-value customers.
+    Conducted customer segmentation using Random Forest Classifier to identify high-value customers.
     Optimized the model with features like purchase history and demographics for targeted marketing strategies.
     - **🚀Patient Disease Evaluation**
     Predicted disease types using SVM combined with Bagging for multi-class classification.
@@ -30,15 +30,15 @@
     Developed a churn prediction model using Gradient Boosting/XGBoost to forecast subscriber churn.
     Delivered insights to help reduce churn and improve customer retention strategies.
     - **🚀Product Placement Based on Sales**
-    Analyzed product placement to optimize store layouts using DBSCAN clustering.
+    Analyzed product placement to optimize store layouts using DBSCAN Clustering.
     Provided strategic recommendations for enhancing store efficiency and cross-selling opportunities.
     
 - **Student Intern | 11/2020 - 12/2020**
   - **Rapture Biotech International Private Limited, Mohali, India**
     - Explored structural biology and industrial bioinformatics.
     - Analyzed protein sequences, predicted structures, and identified potential drug targets.
-    - Hands-on experience in genomics, proteomics, and 3D/2D modeling.
-    - Contributed to computer-aided drug designing and implemented image analysis techniques using Python.
+    - Hands-on experience in Genomics, Proteomics, and 3D/2D Modeling.
+    - Contributed to Computer-Aided Drug Designing and implemented Image Analysis techniques using Python.
     - Utilized AWS for data mining and designed Machine Learning pipelines.
    
 - 👩‍🎓 **Education:**
