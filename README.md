@@ -73,6 +73,10 @@
     - Proficient in handling missing values, outliers, scaling and data normalization.
   - **Data Visualization:**
     - Ability to create insightful charts/graphs, with knowledge in descriptive/inferential statistics.
+    - Advanced skills in Microsoft Excel or Google Sheets.
+    - Familiarity with tools like Tableau, Power BI for creating interactive dashboards and
+      reports.
+    - Proficient in using Apache tools such as Hadoop & Spark.
   - **Programming Languages:**
     - Python (Pandas, NumPy, Matplotlib, Seaborn), R (ggplot2, dplyr, tidyr).
     - SQL: Proficient in SQL for data retrieval and manipulation.
